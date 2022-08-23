@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/watertrail/static/css/main.de6eb4b6.css",
+    "main.js": "/watertrail/static/js/main.888ee38c.js",
+    "static/js/787.d1406a54.chunk.js": "/watertrail/static/js/787.d1406a54.chunk.js",
+    "index.html": "/watertrail/index.html",
+    "main.de6eb4b6.css.map": "/watertrail/static/css/main.de6eb4b6.css.map",
+    "main.888ee38c.js.map": "/watertrail/static/js/main.888ee38c.js.map",
+    "787.d1406a54.chunk.js.map": "/watertrail/static/js/787.d1406a54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de6eb4b6.css",
+    "static/js/main.888ee38c.js"
+  ]
+}
